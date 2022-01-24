@@ -12,7 +12,7 @@ Development of QSAR based predictive tool on selected phytomolecules for cytotox
 
 
 
-**Resarch output: R-package (QSARTNBC) for**: QSAR Models Inhibiting triple negative breast cancer cell line MDA-MB231.
+**Research output: R-package (QSARTNBC) for**: QSAR Models Inhibiting triple negative breast cancer cell line MDA-MB231.
 1. QSAR Model: For Triterpene class of compounds.
 2. QSAR Model: For Quinoxaline class of compounds.
 
