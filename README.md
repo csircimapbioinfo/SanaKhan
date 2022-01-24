@@ -17,11 +17,12 @@ Development of QSAR based predictive tool on selected phytomolecules for cytotox
 2. QSAR Model: For Quinoxaline class of compounds.
 
 **Usage Manual**:
-1. Extract QSARTNBC_R_Package.zip file. Set R-path to extracted directory.
-2. Access QSARTNBC_0.1.0.zip OR QSARTNBC_0.1.0.tar.gz. And upload 'QSARTNBC' package to R. 
-3. Call library as: library(QSARTNBC)
-4. Call tool as: QSARTNBC()
-5. Upload .sdf file of query small molecule. and wait for results.
+1. Install 'R-x64 4.0.1'.
+2. Extract QSARTNBC_R_Package.zip file. Set R-path to extracted directory.
+3. Access QSARTNBC_0.1.0.zip OR QSARTNBC_0.1.0.tar.gz. And upload 'QSARTNBC' package to R. 
+4. Call library as: library(QSARTNBC)
+5. Call tool as: QSARTNBC()
+6. Upload .sdf file of query small molecule. and wait for results.
 
 **Result output Example**:
 
