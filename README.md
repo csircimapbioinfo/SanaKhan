@@ -27,10 +27,10 @@ Development of QSAR based predictive tool on selected phytomolecules for cytotox
 **Result output Example**:
 
 QSAR Model: For Triterpene class of compounds
-     Predicted Activity PIC50 (micro Molar):  5.28638581314475
+     Predicted Activity pIC50 (micro Molar):  5.28638581314475
      
 QSAR Model: For Quinoxaline class of compounds
-     Predicted Activity PIC50 (micro Molar):  5.09472272626171
+     Predicted Activity pIC50 (micro Molar):  5.09472272626171
 
 
 **Contact Emails**:
