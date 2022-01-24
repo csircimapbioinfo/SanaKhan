@@ -18,9 +18,10 @@ Development of QSAR based predictive tool on selected phytomolecules for cytotox
 
 **Usage Manual**:
 1. Extract QSARTNBC_R_Package.zip file. Set R-path to extracted directory.
-2. Access QSARTNBC_0.1.0.zip OR QSARTNBC_0.1.0.tar.gz. And upload 'QSARTNBC' package to R. (As: library(QSARTNBC))
-3. Call tool as: QSARTNBC()
-4. Upload .sdf file of query small molecule. and wait for results.
+2. Access QSARTNBC_0.1.0.zip OR QSARTNBC_0.1.0.tar.gz. And upload 'QSARTNBC' package to R. 
+3. Call library as: library(QSARTNBC)
+4. Call tool as: QSARTNBC()
+5. Upload .sdf file of query small molecule. and wait for results.
 
 **Result output Example**:
 
